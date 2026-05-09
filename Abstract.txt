@@ -1,0 +1,7 @@
+ABSTRACT
+
+The Online Voting System is a console-based application developed using C++. The main objective of this project is to provide a secure and simple platform for conducting voting digitally. The system allows users to register themselves, log in using their credentials, cast votes for candidates, and view election results.
+
+The project uses file handling techniques to store voter details and voting data permanently. It prevents duplicate voting by checking whether a voter has already voted. The application also ensures authentication through ID and password verification.
+
+This project demonstrates the use of important C++ concepts such as structures, vectors, maps, functions, loops, conditional statements, and file handling. The system is simple, efficient, and easy to understand, making it suitable for beginners learning C++ project development.

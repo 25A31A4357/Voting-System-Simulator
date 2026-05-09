@@ -1,0 +1,49 @@
+
+METHODOLOGY
+
+The Online Voting System follows a simple step-by-step methodology for managing the voting process.
+
+Step 1: Voter Registration
+
+The user enters voter ID, name, and password.
+
+The system checks whether the ID already exists.
+
+If the ID is unique, the details are stored in the voters file.
+
+
+Step 2: User Login
+
+The voter enters ID and password.
+
+The system verifies the credentials.
+
+If authentication is successful, the voter can proceed to vote.
+
+
+Step 3: Voting Process
+
+The list of candidates is displayed.
+
+The voter selects a candidate.
+
+The vote count for that candidate increases.
+
+The system marks the voter as already voted.
+
+
+Step 4: Data Storage
+
+Voter information is stored in voters.txt.
+
+Vote counts are stored in votes.txt.
+
+File handling ensures permanent storage.
+
+
+Step 5: Result Display
+
+The system displays votes received by each candidate.
+
+The candidate with maximum votes is declared the winner.
+

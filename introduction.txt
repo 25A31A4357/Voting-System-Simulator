@@ -1,0 +1,7 @@
+INTRODUCTION
+
+Voting is an important process in democratic systems where people select their representatives. Traditional voting methods require manual work, consume more time, and may lead to errors. To overcome these problems, electronic voting systems are introduced.
+
+The Online Voting System is designed to automate the voting process digitally. This project allows voters to register with their details, securely log in, vote for their preferred candidate, and view the final results.
+
+The system stores voter information and vote counts using text files. It also ensures that one voter can vote only once. This project is implemented using C++ programming language and demonstrates practical implementation of data structures and file handling concepts.

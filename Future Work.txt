@@ -1,0 +1,21 @@
+
+
+FUTURE WORK
+
+The current Online Voting System is a basic console application. It can be improved further in several ways:
+
+1. Add database connectivity such as MySQL.
+
+2. Implement password encryption for better security.
+
+3. Develop a graphical user interface (GUI).
+
+4. Add admin login and candidate management.
+
+5. Enable online internet-based voting.
+
+6. Add OTP or biometric authentication.
+
+7. Generate detailed voting reports.
+
+8. Improve security against unauthorized access.

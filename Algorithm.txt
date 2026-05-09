@@ -1,0 +1,75 @@
+ALGORITHM
+
+Algorithm: Online Voting System
+
+Step 1: Start the program.
+
+Step 2: Load voter data from voters.txt.
+
+Step 3: Load candidate votes from votes.txt.
+
+Step 4: Display main menu:
+
+1. Register
+
+
+2. Login & Vote
+
+
+3. Show Results
+
+
+4. Exit
+
+
+
+Step 5: If user selects Register:
+
+Input voter ID.
+
+Check whether ID already exists.
+
+If ID exists, display error.
+
+Else input name and password.
+
+Save details to file.
+
+
+Step 6: If user selects Login & Vote:
+
+Input ID and password.
+
+Verify credentials.
+
+If invalid, display error.
+
+If already voted, display message.
+
+Else display candidate list.
+
+Input candidate choice.
+
+Increase vote count.
+
+Mark voter as voted.
+
+Save updated data.
+
+
+Step 7: If user selects Show Results:
+
+Display votes of all candidates.
+
+Find candidate with maximum votes.
+
+Display winner.
+
+
+Step 8: If user selects Exit:
+
+Terminate program.
+
+
+Step 9: Stop.
+

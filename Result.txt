@@ -1,0 +1,139 @@
+
+--- Voting System ---
+1. Register
+2. Login & Vote
+3. Show Results
+4. Exit
+Enter choice: 1
+Enter ID: 4357
+Enter Name: Sai
+Enter Password: 7534
+Registration successful!
+
+--- Voting System ---
+1. Register
+2. Login & Vote
+3. Show Results
+4. Exit
+Enter choice: 2
+Enter ID: 4357
+Enter Password: 7534
+
+Candidates:
+1. Alice
+2. Bob
+3. Charlie
+Enter your choice: 1
+Vote cast successfully!
+
+--- Voting System ---
+1. Register
+2. Login & Vote
+3. Show Results
+4. Exit
+Enter choice: 1
+Enter ID: 4355
+Enter Name: Viswa
+Enter Password: 5534
+Registration successful!
+
+--- Voting System ---
+1. Register
+2. Login & Vote
+3. Show Results
+4. Exit
+Enter choice: 2
+Enter ID: 4355
+Enter Password: 5534
+
+Candidates:
+1. Alice
+2. Bob
+3. Charlie
+Enter your choice: 2
+Vote cast successfully!
+
+--- Voting System ---
+1. Register
+2. Login & Vote
+3. Show Results
+4. Exit
+Enter choice: 1
+Enter ID: 4366
+Enter Name: Chaitanya
+Enter Password: 6634
+Registration successful!
+
+--- Voting System ---
+1. Register
+2. Login & Vote
+3. Show Results
+4. Exit
+Enter choice: 2
+Enter ID: 4366
+Enter Password: 6634
+
+Candidates:
+1. Alice
+2. Bob
+3. Charlie
+Enter your choice: 3
+Vote cast successfully!
+
+--- Voting System ---
+1. Register
+2. Login & Vote
+3. Show Results
+4. Exit
+Enter choice: 1
+Enter ID: 4356
+Enter Name: Gopi
+Enter Password: 6534
+Registration successful!
+
+--- Voting System ---
+1. Register
+2. Login & Vote
+3. Show Results
+4. Exit
+Enter choice: 2
+Enter ID: 4356
+Enter Password: 6534
+
+Candidates:
+1. Alice
+2. Bob
+3. Charlie
+Enter your choice: 1
+Vote cast successfully!
+
+--- Voting System ---
+1. Register
+2. Login & Vote
+3. Show Results
+4. Exit
+Enter choice: 2
+Enter ID: 4357
+Enter Password: 7534
+You have already voted!
+
+--- Voting System ---
+1. Register
+2. Login & Vote
+3. Show Results
+4. Exit
+Enter choice: 3
+
+--- Voting Results ---
+Alice : 2 votes
+Bob : 1 votes
+Charlie : 1 votes
+Winner: Alice
+
+--- Voting System ---
+1. Register
+2. Login & Vote
+3. Show Results
+4. Exit
+Enter choice: 4
+Exiting...

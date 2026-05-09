@@ -1,0 +1,8 @@
+CONCLUSION
+
+The Online Voting System developed using C++ successfully provides a simple and secure method for conducting elections digitally. The project allows voter registration, secure login, voting, and result display using file handling techniques.
+
+The system ensures that each voter can vote only once, thereby reducing duplicate voting issues. It also demonstrates practical implementation of important programming concepts such as structures, vectors, maps, functions, loops, and file handling.
+
+This project is useful for learning real-world application development using C++ and can be further enhanced with advanced security and database integration.
+
