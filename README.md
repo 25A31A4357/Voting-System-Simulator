@@ -168,5 +168,3 @@ This project showcases important programming concepts and provides a strong foun
 | Main Objective | Secure and Efficient Voting System |
 
 ---
-
-## If you like this project, consider giving it a star on GitHub!
